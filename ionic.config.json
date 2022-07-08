@@ -1,8 +1,7 @@
 {
   "name": "carsmarket",
   "integrations": {
-    "cordova": {},
-    "capacitor": {}
+    "cordova": {}
   },
   "type": "angular"
 }
